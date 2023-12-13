@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Jane Doe",
+        "biography": "Enthusiastic software engineer with a passion for AI and machine learning.",
+        "gameId": "JANE1234"
+    },
+    {
+        "id": "2",
+        "name": "John Smith",
+        "biography": "Dedicated product manager with over 5 years of experience in the tech industry.",
+        "gameId": "JOHN5678"
+    },
+    {
+        "id": "3",
+        "name": "Alice Johnson",
+        "biography": "Creative graphic designer and visual artist specializing in digital illustrations.",
+        "gameId": "ALICE9101"
+    },
+    {
+        "id": "4",
+        "name": "Mike Brown",
+        "biography": "Seasoned cybersecurity expert with a strong background in network security.",
+        "gameId": "MIKE2468"
+    }
+]
