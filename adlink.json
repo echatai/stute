@@ -1,4 +1,4 @@
 {
-  "addurl": "myket://details?id=come.razan.rdns",
-  "addpkg":"ir.mservices.market"
+  "addurl": "tg://resolve?domain=IRPUBG",
+  "addpkg":"org.telegram.messenger"
 }
