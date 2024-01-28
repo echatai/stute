@@ -1,4 +1,4 @@
 {
-  "addurl": "tg://resolve?domain=IRPUBG",
-  "addpkg":"org.telegram.messenger"
+  "addurl": "myket://download/",
+  "addpkg":"ir.mservices.market"
 }
